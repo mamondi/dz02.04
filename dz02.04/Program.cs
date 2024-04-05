@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LambdaExample
+namespace dz02._04
 {
     class Program
     {
